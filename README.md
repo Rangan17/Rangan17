@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rangan Satpathi</h1>
-<h3 align="center">Computer science (Artificial Intelligence & Machine Learning) undergraduate student at Institute of Engineering & Management (MAKAUT). I have interest on image</h3>
+<h3 align="center">Computer science (Artificial Intelligence & Machine Learning) undergraduate student at Institute of Engineering & Management (MAKAUT). I have interest on computer vision and Brain computer interface</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rangan17&label=Profile%20views&color=0e75b6&style=flat" alt="rangan17" /> </p>
 
